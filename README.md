@@ -1,4 +1,4 @@
-# simple-js
+# Counter with Vanilla
 
 ## Made a simple counter app using only vanilla javascript.
 
